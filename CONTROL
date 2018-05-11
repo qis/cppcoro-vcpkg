@@ -1,0 +1,3 @@
+Source: cppcoro
+Version: 2492c0782911cdf7fe803642040efff3faa3c28a
+Description: A library of C++ coroutine abstractions for the coroutines TS
